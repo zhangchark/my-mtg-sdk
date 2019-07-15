@@ -3,7 +3,7 @@ Pod::Spec.new do |spec|
 
 
   spec.name         = 'ZhangCharkSDK'
-  spec.version      = '5.4.1'
+  spec.version      = '5.5.0'
   spec.summary      = 'you can import my ad sdk via using this pod'
   spec.homepage     = 'https://github.com/zhangchark/my-mtg-rv.git'
   spec.description  = <<-DESC   
